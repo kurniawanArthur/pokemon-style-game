@@ -1,5 +1,5 @@
 # pokemon-style-game
-game 2 dimensi sederhana dengan gaya yang mirip dengan game pokemon
+Simple 2 dimensional game with a similar style to pokemon games
 
 ## Pages
 https://kurniawanarthur.github.io/pokemon-style-game/
